@@ -1,0 +1,20 @@
+//stats for api
+
+[
+  {
+		"id":101 
+		"wins":10
+		"losses":3
+		"points_scored":7
+  },
+  {		"id":231
+		"wins":1
+		"losses":10
+		"points_scored":2
+  },
+  {		"id":145
+		"wins":5
+		"losses":1
+		"points_scored":14
+  }
+]
